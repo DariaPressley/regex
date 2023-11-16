@@ -36,7 +36,10 @@ https://gist.github.com/DariaPressley/e3272025d3ebf94c4652dfca5c1e324e
 
 ## Credits
 
-N/A
+https://plainenglish.io/blog/regular-expressions-brackets-f2d6f69ffe13
+https://www.rexegg.com/regex-quantifiers.html
+https://www.regular-expressions.info/backref.html
+
 
 ## License
 
