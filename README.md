@@ -32,7 +32,7 @@ https://github.com/DariaPressley/regex
 
 ## Gist Link
 
-DariaPressley/gist:e3272025d3ebf94c4652dfca5c1e324e
+https://gist.github.com/DariaPressley/e3272025d3ebf94c4652dfca5c1e324e
 
 ## Credits
 
